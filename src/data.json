@@ -1,0 +1,42 @@
+[
+    {
+        "id": 1,
+        "name": "Xe 1",
+        "image": "img/anh1.jpg",
+        "description": "xe đạp thể thao giá rẻ !!!",
+        "stock": 10,
+        "price": 10000
+    },
+    {
+        "id": 2,
+        "name": "Xe 2",
+        "image": "img/anh2.jpg",
+        "description": "xe đạp thể thao giá rẻ !!!",
+        "stock": 10,
+        "price": 20000
+    },
+    {
+        "id": 3,
+        "name": "Xe 3",
+        "image": "img/anh3.jpg",
+        "description": "xe đạp thể thao giá rẻ !!!",
+        "stock": 10,
+        "price": 30000
+    },
+    {
+        "id": 4,
+        "name": "Xe 4",
+        "image": "img/anh4.jpg",
+        "description": "xe đạp thể thao giá rẻ !!!",
+        "stock": 10,
+        "price": 40000
+    },
+    {
+        "id": 5,
+        "name": "Xe 5",
+        "image": "img/anh5.jpg",
+        "description": "xe đạp thể thao giá rẻ !!!",
+        "stock": 10,
+        "price": 50000
+    }
+]
